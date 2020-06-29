@@ -19,20 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe2489b9-bdab-49c6-bd09-bd79cbc79de2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/loginPhpMySql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conexion.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarios.php" beforeDir="false" afterPath="$PROJECT_DIR$/usuarios.php" afterDir="false" />
-    </list>
+    <list default="true" id="fe2489b9-bdab-49c6-bd09-bd79cbc79de2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +105,7 @@
       <workItem from="1593429676481" duration="340000" />
       <workItem from="1593430821740" duration="20736000" />
       <workItem from="1593452099506" duration="3107000" />
-      <workItem from="1593459663611" duration="427000" />
+      <workItem from="1593459663611" duration="950000" />
     </task>
     <servers />
   </component>
